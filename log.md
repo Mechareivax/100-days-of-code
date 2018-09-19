@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0 September 19, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I've decided to commit to doing - at the very least - an hour of coding every day to keep me productive and in touch with what I'm doing with myself each day. I continued my class on Udemy. I've been going back through lessons I've already done before since its been about two months since I last dove into the class. It was hard to focus today, but I was able to get through some of the videos. I'll attribute that to today being the first day of my week long video game cleanse. I'd like to just not play games at all for 7 days, but there's the temptation to play games after I've studied. But I can do other things instead. I can read a bit, cook a bit, watch a movie. I also think I'm just distracted by the desire to just make something already. I want to make a video game lorem ipsum generator. I feel like that'd require some knowledge on databases, which the next lesson gets to. And that's where I stopped last time. So here I go again. Just have to barrel through it.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Worked on:** Classwork
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Feeling:** Scatterbrained, but determined
