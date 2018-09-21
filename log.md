@@ -7,3 +7,13 @@ I've decided to commit to doing - at the very least - an hour of coding every da
 **Worked on:** Classwork
 
 **Feeling:** Scatterbrained, but determined
+
+
+### Day 1 September 20, 2018
+
+
+Worked at my day job from 11am to 9pm, and then went to grab food, so I ended up getting home and sitting down at around 11pm. Even so, I was able to work on some FreeCodeCamp stuff from about 11:20pm to 12:50am. Not straight through, but more focused than I thought I'd be considering I'm all the way exhausted from work. Now to bed so I can serve more tomorrow. Hopefully not for too much longer!
+
+**Worked on:** FCC exercises
+
+**Feeling:** Tired
