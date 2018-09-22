@@ -25,3 +25,12 @@ Completed another hour of classwork and jumped onto FCC to get through a few cha
 **Worked on:** Classwork and FCC exercises
 
 **Feeling:** Accomplished
+
+
+### Day 3 September 22, 2018
+
+Did some FCC exercises and finally got to the point where they have you do actual projects! I was able to finish the tribute page and the survey form. I want to go back to the survey so I can style it better. Maybe mess with some grid stuff to make it more appealing. I ended up coding from about 11:15am to 2:50pm today so that's neat. And the only reason I'm not diving into the next project is because of work. It seems like it's all front end stuff which is fine since I'm still getting used to back end and even JS. I feel really productive, but also super bummed that I have to stop to go work. I really enjoy doing this.
+
+**Worked on:** https://codepen.io/xmedr10/pen/gdywYv https://codepen.io/xmedr10/pen/YOMGgO
+
+**Feeling:** Productive
