@@ -34,3 +34,12 @@ Did some FCC exercises and finally got to the point where they have you do actua
 **Worked on:** https://codepen.io/xmedr10/pen/gdywYv https://codepen.io/xmedr10/pen/YOMGgO
 
 **Feeling:** Productive
+
+
+### Day 4 September 24, 2018
+
+It's Monday, which means I had a thirteen hour work day yesterday, got home, and went directly to bed. There was a zero percent chance of me doing any work yesterday night. Exhaustion had become me. But today I worked on styling the survey form from yesterday and learned some things. Such as the fact that a ul puts padding on itself automatically and it has the potential to make things look gross. And for perservering for five days, I've rewarded myself with wine. Huzzah!
+
+**Worked on:** https://codepen.io/xmedr10/pen/YOMGgO
+
+**Feeling:** Like, so refreshed
