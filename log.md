@@ -43,3 +43,12 @@ It's Monday, which means I had a thirteen hour work day yesterday, got home, and
 **Worked on:** https://codepen.io/xmedr10/pen/YOMGgO
 
 **Feeling:** Like, so refreshed
+
+
+#### Day 5 September 25, 2018
+
+Another hour down, and with this I was able to fully finish my video game survey form! I might go back and add some extra questions for fun, but for now I'm closing the book on that. It's minimalistic and that's okay. But that submit button is looking reaaal good. I learned about linear gradients and the button:active selector. Which both of those things seem like they'd be fairly useful in the long run. I used my whiteboard to help figure out what divs I wanted where and wrapping what items, and that proved to be really useful. It's super helpful to be able to step by step go through a problem in a visual manner. I'm absolutely going to be keeping this whiteboard by my desk. I'm also debating finishing my video game cleanse today. This is the sixth day of no games and it hasn't actually been all too hard. It helps that I've been busy with friends, the hour a day, and stuff like that, so my mind hasn't been solely occupied by my lack of games. Honestly I wouldn't even know what I would play. I'll figure it out.
+
+**Worked on:** https://codepen.io/xmedr10/full/YOMGgO/
+
+**Feeling:** Really good
