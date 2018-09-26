@@ -52,3 +52,12 @@ Another hour down, and with this I was able to fully finish my video game survey
 **Worked on:** https://codepen.io/xmedr10/full/YOMGgO/
 
 **Feeling:** Really good
+
+
+### Day 6 September 26, 2018
+
+Wow, I spent so long on this today. I started on the landing page for a product after having a lot of issues deciding on what the product would be. I was talking about it with my partner when we thought of doing a sevice that presses your favorite episodes of a podcast to vinyl. The most hipster thing imaginable. I worked on it for a little over four hours which, part-way through the power went out and I forgot to save, so I had to start again from pretty far back. So that's a lesson learned in the hardest way possible. But I went back in and rebuilt what had been lost. I learned about parallax scrolling on images, box and text shadows, that h1's also have weird default stylings that need to be overwritten, and how to build a navbar from scratch. A whole lot. This has been a week! First week of many.
+
+**Worked on:** https://codepen.io/xmedr10/full/dqxerp/
+
+**Feeling:** Awesome
