@@ -61,3 +61,12 @@ Wow, I spent so long on this today. I started on the landing page for a product 
 **Worked on:** https://codepen.io/xmedr10/full/dqxerp/
 
 **Feeling:** Awesome
+
+
+### Day 7 September 27, 2018
+
+I took a break from my double shift today to grab my laptop from home and do some work. I was able to do some good stuff too. I figured out the centering business on the email field. Turns out flexbox is super useful in centering things like that. I set the flex-direction to coulumn, so things would be top to bottom, then align-items and justify-content to center. Together, they give me the exact effect I'm looking for, where everything is centered on a vertical line, and only take up as much space as they need. Okay, back to serving.
+
+**Worked on:** https://codepen.io/xmedr10/full/dqxerp/
+
+**Feeling:** Like I'm making actual progress
