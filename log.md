@@ -70,3 +70,12 @@ I took a break from my double shift today to grab my laptop from home and do som
 **Worked on:** https://codepen.io/xmedr10/full/dqxerp/
 
 **Feeling:** Like I'm making actual progress
+
+
+### Day 8 September 28, 2018
+
+I worked some more on the prooduct landing page and I'm declaring it finished for now. I threw in a media query to make it so that the 3 links to the right just disappear when browsing on mobile, added two more videos to the example section, and styled the submit button and the email input. Then I started and finished to technical doocumentation page project. That didn't take too long. I decided that, that project was more about displaying information and being able to access it quickly, than it was about styling and making something appealing to a consumer. So I didn't do much styling on it at all. Besides, it didn't really introduce anything new other than the code tag. I looked at a bunch of different porfolio websites so some ideas on what to do with mine for the last front end project. That, I'm excited about it. It's not going to be this ground breaking design masterpiece, but I'd like for it to have some animations here and there and a good balance of information and aesthetics.
+
+**Worked on:** https://codepen.io/xmedr10/pen/vVYMaY https://codepen.io/xmedr10/full/dqxerp/
+
+**Feeling:** Good
