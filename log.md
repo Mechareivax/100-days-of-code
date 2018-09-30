@@ -79,3 +79,12 @@ I worked some more on the prooduct landing page and I'm declaring it finished fo
 **Worked on:** https://codepen.io/xmedr10/pen/vVYMaY https://codepen.io/xmedr10/full/dqxerp/
 
 **Feeling:** Good
+
+
+### Day 9 September 29, 2018
+
+I worked a long night at work and was still able to come home and positively say that I could do some coding before bed. That's pretty great, I think. I started work on version 1 of my portfolio website. I imagine I'd probably do some revisions as I improve and get more practice with things like Javascript. I did get to mess with some animations and thats was neat. Very basic stuff, nothing too huge. But now I have some fancy fade ins for the site. So that's neat. I've got to go back to work in 8 hours so I'm going to bed now. I'm writing this one on my phone right before bed so this was a short one.
+
+**Worked on:** Portfolio site V1 (currently in local storage)
+
+**Feeling:** Satisfied and sleepy
