@@ -89,7 +89,7 @@ I worked a long night at work and was still able to come home and positively say
 
 **Feeling:** Satisfied and sleepy
 
-#### Day 10 September 30, 2018
+### Day 10 September 30, 2018
 
 Wow, cool, made it to day 10. It really hasn't been too hard either. It's really easy to say that I'm just going to spend an hour coding and just do it. It's even easier to spend more than just an hour coding. I need to get better at pre-planning, though. I spend a lot of time changing what I want a site to look like mid way. I'm also currently struggling with keeping to one task within a project. I get caught up on aesthetics a lot of the time and end up trying to get something else to work and look good. I'll get there though.
 
