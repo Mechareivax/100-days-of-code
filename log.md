@@ -106,3 +106,12 @@ It's coming up on the spookiest time of the year. To celebrate, I did a whole lo
 **Worked on:** A few different, little things
 
 **Feeling:** Productive
+
+
+### Day 12 October 2, 2018
+
+Did some more of the JS stuff on FCC. I'm about to learn about switch statements which I actually don't know if I've ever heard of. So that'll be interesting. I forget that I definitely like aesthetics more than logic. The JS stuff always stumps me in weird ways. But I've gotten through stuff with JS before and I can do it again.
+
+**Worked on:** FCC coursework
+
+**Feeling:** Distracted by the events of the day
