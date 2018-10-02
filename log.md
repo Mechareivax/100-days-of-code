@@ -89,6 +89,7 @@ I worked a long night at work and was still able to come home and positively say
 
 **Feeling:** Satisfied and sleepy
 
+
 ### Day 10 September 30, 2018
 
 Wow, cool, made it to day 10. It really hasn't been too hard either. It's really easy to say that I'm just going to spend an hour coding and just do it. It's even easier to spend more than just an hour coding. I need to get better at pre-planning, though. I spend a lot of time changing what I want a site to look like mid way. I'm also currently struggling with keeping to one task within a project. I get caught up on aesthetics a lot of the time and end up trying to get something else to work and look good. I'll get there though.
@@ -96,3 +97,12 @@ Wow, cool, made it to day 10. It really hasn't been too hard either. It's really
 **Worked on:** Portfolio site V1 (currently in local storage)
 
 **Feeling:** Like I hit a milestone
+
+
+### Day 11 October 1, 2018
+
+It's coming up on the spookiest time of the year. To celebrate, I did a whole lot of a lot of different things today. I put a pin in my portfolio website for now because I don't want to pigeonhole myself into a website that could be so much more but isn't because I insisted on not learning more technologies before I committed to it. I wanna learn more about EJS and JS in general so I can have some fun interactivity in the portfolio. Optional fun of course. Not like, finish this game in order to see information on this person who is trying to get a job with you. I installed node onto my desktop and fiddled around with the command line of this machine. I've done some command line stuff in c9 before but not on a local machine before, so that was cool. I'll probably end up looking more into setting up a local development environment tomorrow. I also started on the JS portion of the FCC coursework. Hopefullly I can get through some more of that tomorrow as well.
+
+**Worked on:** A few different, little things
+
+**Feeling:** Productive
