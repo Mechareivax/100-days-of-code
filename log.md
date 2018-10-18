@@ -115,3 +115,12 @@ Did some more of the JS stuff on FCC. I'm about to learn about switch statements
 **Worked on:** FCC coursework
 
 **Feeling:** Distracted by the events of the day
+
+
+### Day 13 October 17, 2018
+
+Took some time off, definitely not on purpose, but because Javascript always does that to me while I'm learning it. I get frustrated and don't come back to learning for a while. It definitely happened today. I was trying to figure out an exercise on FCC and got frustrated with myself along the way and now I'm just a little too riled up to continue for the day. This is the learning process though and I really shouldn't beat myself up about things like this. I read a post on reddit that said something to the effect of "you're trying to learn programming AND problem solving, two things that are different from each other and to you". It helped bring me back up. I do enjoy the FCC stuff but I don't think it's very good at teaching you problem solving. It's fine at showing you how a piece of code works (along with other supplementary resources) but isn't great at showing how to actually solve problems with it. But also, I need to learn to stick with the exercises and learn with an open mind instead of putting myself down. I'll come back to this one tomorrow.
+
+**Worked on:** FCC coursework
+
+**Feeling:** Not so great, but aware
