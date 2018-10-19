@@ -124,3 +124,12 @@ Took some time off, definitely not on purpose, but because Javascript always doe
 **Worked on:** FCC coursework
 
 **Feeling:** Not so great, but aware
+
+
+### Day 14 October 18, 2018
+
+Some more Javascript. I still don't entirely understand the solution that the site had for that last project, but I'm rolling with it for now. I finished all of the basic Javascript exercises and I'll be onto ES6 tomorrow. What does it for me on JS is the logic. It's something I actually need to practice, whereas with html and css it's all googling and finding out the rules of a property. JS is straight up problem solving through math and that's something I haven't done much of. I really will need to just hammer out some projects to get myself used to that.
+
+**Worked on:** FCC Coursework
+
+**Feeling:** Way better
