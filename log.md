@@ -133,3 +133,12 @@ Some more Javascript. I still don't entirely understand the solution that the si
 **Worked on:** FCC Coursework
 
 **Feeling:** Way better
+
+
+### Day 15 October 19, 2018
+
+I got to an exercise that was really foreign and had me using and researching things that the course hadn't actually covered yet. Thankfully I was able to find a post where other people were having the same problems that I was with that specific exercise. It was cool to be able to learn about chainging arrow functions, but I really do think that, that should have been something covered in a later section. I'm over here barely understanding the difference in scope between let and var, and the program suddenly asks me not only to figure out what map() and filter() do and how they work, but to also figure out how to chain those things together in arrow functions. I also looked at some more jobs in Indeed just to see what people want for a junior front end dev, and researched what TypeScript, Angular, and React actually are. I've read them referenced on a lot of different things, and now I finally have some familiarity with what they do. I also did some research on effective problem solving. So that's cool.
+
+**Worked on:** FCC Coursework
+
+**Feeling:** Pretty good
