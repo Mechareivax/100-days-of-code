@@ -142,3 +142,12 @@ I got to an exercise that was really foreign and had me using and researching th
 **Worked on:** FCC Coursework
 
 **Feeling:** Pretty good
+
+
+### Day 16 October 20, 2018
+
+I worked 11 hours today (could have been 13, but a coworker did me a huge favor) and then came home and did some coursework. I'm really starting to see the flaws in the FCC stuff. They're kinda throwing stuff at you as a side thought and expecting you to know how things that haven't been discussed work in order to solve a problem. And then the tests themselves aren't always directly related to the examples given. It's something to keep an eye out for. I researched the spread and rest operators for arrays, and destructuring objects. I definitely am going to need to read up on both of those things a whole lot more because I'm not comfortable with them in the slightest right this moment. I'm glad that I am learning about these things though. And even if I don't understand these things now, when I do really need to apply them I can at least say that I've seen these things before. I need to get back into DOM manipulation so that I can continue actually making things. I can't wait.
+
+**Worked on:** FCC Coursework
+
+**Feeling:** Exhausted, but alright
