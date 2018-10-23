@@ -151,3 +151,12 @@ I worked 11 hours today (could have been 13, but a coworker did me a huge favor)
 **Worked on:** FCC Coursework
 
 **Feeling:** Exhausted, but alright
+
+
+### Day 17 October 23, 2018
+
+Did some more ES6 studying. Learned about classes and constructors, as well as getters and setters. I assume this is going to be the start of some object oriented programming lessons. I've realized that while I'm studying javascript and logic based stuff, I can't expect to rely solely on FCC's explanations on things to complete their exercises. Because of that, I've found some decent teachers on Youtube who come across as both passionate and clear when it comes to explaining logic. I finished off the studying by looking at some regular expression matching and searching which seems like it'll be simple enough.
+
+**Worked on:** Studying ES6
+
+**Feeling:** Like I'm making progress
