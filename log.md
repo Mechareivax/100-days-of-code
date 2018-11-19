@@ -160,3 +160,11 @@ Did some more ES6 studying. Learned about classes and constructors, as well as g
 **Worked on:** Studying ES6
 
 **Feeling:** Like I'm making progress
+
+### Day 18 November 19, 2018
+
+I have two overarching thoughts for this one. First, is that I went on vacation to Portland, OR and I'm now planning on moving there, hence the absence. Second, is regular expressions are the devil. I worked through all of those exercises and needed a good bit of extracurricular reading for everyone of them. That was one of those moments where I really wished I was in school and had access to a professor who could sit down and explain why things do and do not work. Since going to Portland I've decided that, living there is something that I definitely want and that is now what is driving me to study and practice more. It'd be nice to be able to comfortably afford to live there. I'm also extremely happy that I now have a motivation that is a good thing as opposed to a negative thing. Before, my motivation was simply to get out of the restaurant industry and work with something I actually enjoy. Now, that still remains but it's helped by the fact that I immensely want to live in Portland. I loved everything there. The food was phenomenal, the people were delightful, the scenery was breathtaking, and my interests were alive there. I went to a video game bar that was unlike any I'd experienced before and was so happy, I almost cried. The thought of having a community of people in closer proximity that actually like the things I do is amazing. Absolutely amazing. So that means coding day in, day out.
+
+**Worked on:** FCC Couursework
+
+**Feeling:** Amazing
