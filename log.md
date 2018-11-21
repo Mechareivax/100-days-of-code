@@ -168,3 +168,11 @@ I have two overarching thoughts for this one. First, is that I went on vacation 
 **Worked on:** FCC Couursework
 
 **Feeling:** Amazing
+
+### Day 19 November 20, 2018
+
+I spent, literally the whole day on practicing making algorithms in Javascript. My brain is tired. I am tired. I would have finished sooner if life hadn't gotten in the way. But even so, the unit is done. I'm not particularly proud of how I went about it - I most certainly should have stopped and continued tomorrow - but today my stubborness to finish the unit won. I need to get better at learning which built in methods work on which data types. I kept trying to use split on an array and splice on strings. Even now, I'm not entirely sure if those are right haha. But tomorrow will be another day and my brain will have reset. And tonight, I dream of logic.
+
+**Worked on:** Making algorithms woo
+
+**Feeling:** Burnt out for the day
