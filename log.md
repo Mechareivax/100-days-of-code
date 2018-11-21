@@ -176,3 +176,11 @@ I spent, literally the whole day on practicing making algorithms in Javascript. 
 **Worked on:** Making algorithms woo
 
 **Feeling:** Burnt out for the day
+
+### Day 20 November 21, 2018
+
+Tis the day ere Thanksgiving. Got a long couple days ahead, what with visiting family. But I was still able to finish an hour of learning today. I'm starting to learn about Object Oriented Programming which I believe is huge, because this is how games are made. It also seems like it in general is a widely used method of programming and problem solving which I can absolutely get behind. I bookmarked a couple things to read while I'm over at my parents'. Some stuff about using OOP to make a simple platformer and some sort of self-proclaimed "Front End Master Handbook". It sounded ominous so I'm super into it.
+
+**Worked on:** Learning OOP
+
+**Feeling:** Great
