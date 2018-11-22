@@ -184,3 +184,11 @@ Tis the day ere Thanksgiving. Got a long couple days ahead, what with visiting f
 **Worked on:** Learning OOP
 
 **Feeling:** Great
+
+### Day 21 November 22, 2018
+
+I'm writing this from my parents' house on Thanksgiving, so that's cool. I was able to set aside time for my hour despite my family being the way that my family is! I looked at some Python stuff today, installed it, and wrote a hello world program to make sure it works. I might keep reading about python today if I end up getting bored during the festivities. I also continued to learn about Object Oriented Programming which I'm super excited about, but if I see the word prototype again I'm going to turn off my computer haha.
+
+**Worked on:** Learning OOP
+
+**Feeling:** Productive
