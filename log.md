@@ -192,3 +192,11 @@ I'm writing this from my parents' house on Thanksgiving, so that's cool. I was a
 **Worked on:** Learning OOP
 
 **Feeling:** Productive
+
+### Day 22 November 23, 2018
+
+I started studying a little later in the day than I would have liked but I was still able to get it done. Pretty jazzed about that. I finished the section on object oriented programming and started the section on functional programming. I don't have much experience with this as a concept so I'm excited to see how this goes. At least with object oriented I had tinkered around with Unity and, you know, have used objects that had their own abstract properties in the real world. I suppose functional won't be too difficult. It's got some pretty solid principles that seem to make sense and be efficient. I also looked into buying a web domain today since it is black friday, which is apparently the best day of the year to buy one. I really played with the idea for a while, especially since it was relatively cheap and I could have a .moe site which is all I want in this life. I ended up not going for it since money is fairly tight for me right now. If I was getting some income from web dev right now, I would probably be able to justify buying a domain and just dip into the funds earned from that, but I don't so I won't. It's feeling close though. Hopefully after the Javascript segment I can hatch some project ideas and work on that for a while. The only ideas I have for right this moment are the video game lorem ipsum - which seems to require knowledge of databases - and my own portfolio site - which I still need to sit down and actually design.
+
+**Working on:** FCC Coursework
+
+**Feeling:** Sleepy, but good
