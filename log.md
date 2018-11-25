@@ -200,3 +200,11 @@ I started studying a little later in the day than I would have liked but I was s
 **Working on:** FCC Coursework
 
 **Feeling:** Sleepy, but good
+
+### Day 23 November 25, 2018
+
+Yesterday was a 12 hour work day, so when I got home I just went directly to bed. I've got work later today but I managed to continue on with learning about functional programming. It's much more understandable than I thought it was going to be, which I'm super happy about. I learned a bit about map and filter and made my own versions of those methods. I'm also looking into buying some programming related reading material since so many things are on sale this weekend. I think it'd be immensely helpful to have something tangible I could read offline and away from a screen.
+
+**Worked on:** FCC coursework
+
+**Feeling:** Productive
