@@ -208,3 +208,11 @@ Yesterday was a 12 hour work day, so when I got home I just went directly to bed
 **Worked on:** FCC coursework
 
 **Feeling:** Productive
+
+### Day 24 November 26, 2018
+
+Worked for a few hours today and watched an interview that the guy from Fun Fun Function had with Brazlian programmer Isa Silveira. I finished the section on functional programming and I'm super relieved. It went pretty well aside from one project that I was able to figure out on my own using a different approach than the example and solution had, but then when I tried to use the provided solution to try to understand why it worked, it simply didn't. I spent a while trying to figure out why and I still cannot understand if their solution is even supposed to work or if there's a typo or something. I straight up copied and pasted the answer after a little bit and it still didn't pass the tests haha. But I realized that I was spending maybe a little too much time on that and moved on. I also dipped my toes into currying. I understand it as a concept and how it works, but I'm still just a little fuzzy on practical applications of currying. I understand that it exists to make code modular and if you don't have all the arguments available you can still start to pre-cook your code, I think I just need to see it in action to know when to use it. Then I watched that interview and their topics were really interesting. The reason I went into it was to listen to accomplished people talk about accepting and needing failure in their projects and for growth, but I ended up learning about so much more. They spoke about heuristics as opposed to hypotheses, the state of Rio's commercial technology, and how having an enormous fuck up can numb you to the fear of any subsequent fuck ups. That last point boils down to basically, that feeling of "okay something very bad happened, and I survived". It was really informative to watch.
+
+**Worked on:** Learning to learn, it felt like
+
+**Feeling:** Optimistic
