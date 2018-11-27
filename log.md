@@ -216,3 +216,11 @@ Worked for a few hours today and watched an interview that the guy from Fun Fun 
 **Worked on:** Learning to learn, it felt like
 
 **Feeling:** Optimistic
+
+### Day 25 November 27, 2018
+
+Did a couple hours worth of creating three algorithms. When it's written out like that, it makes it seem like I took a hell of a lot longer than I was supposed to on those exercises haha. I was able to do all of them on my own though, so that's cool. The problem came when I started working on the fourth exercise and it shifted from working with arrays to an array of objects with properties. I'd spent the last couple days thinking about things only in terms of arrays, so all of my knowledge of objects are buried under all this recent stuff. I'm calling it for myself today on those problems. I'll come back to them either tonight or tomorrow. It's like having played Monster Hunter for a month and then playing Dark Souls. Similar enough problems to solve but you have to reacclimate yourself to a new toolset and a new control scheme. I straight up can't think of objects as not arrays right now. I want to solve the problem by iterating through each object and displaying every property as an array and then making them objects again. Which I'm sure that is one way to do it, but I'd rather solve the problem as if it was an object, not turn it into an array. I think I just need some time away from the problem for now. Give myself a chance to reset my thinking. I do think I'm getting better at problem solving. I felt like before it was a lot of me throwing things at a wall and seeing what sticks. Now I'm better at isolating parts of a problem and seeing what is and isn't working, and then going from there. Writing things down and working through them that way really help as well.
+
+**Worked on:** Making algorithms
+
+**Feeling:** Stumped, but aware
