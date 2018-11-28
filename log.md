@@ -224,3 +224,11 @@ Did a couple hours worth of creating three algorithms. When it's written out lik
 **Worked on:** Making algorithms
 
 **Feeling:** Stumped, but aware
+
+### Day 26 November 28, 2018
+
+So I finished the exercise from yesterday with some help. Afterwards, I decided I'd just try to set up a database for the project I've been wanting to do for a long time now, which is a lorem ipsum generator that spits out video game and anime things quotes and words. That led me down a rabbit hole of how to get a local server running, which led me down a rabbit hole of how to connect a local repository to a remote one on github through the command line. And that was literally my morning. I wrote an h1 on the index file and set the background to red on the css file. It's not an amazing start, but now the files exist and I know how to push them onto a public setting. That accounts for something. I learned some of git today so I'd say that was a success. And now I have the way paved for future commits.
+
+**Worked on:** Learning git, setting up a test server
+
+**Feeling:** Fine
