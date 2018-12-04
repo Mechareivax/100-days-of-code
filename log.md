@@ -240,3 +240,11 @@ I finally started work on that lorem ipsum generator I've wanted to do for a whi
 **Worked on:** WASDipsum
 
 **Feeling:** Good
+
+### Day 28 December 4, 2018
+
+Today was a light day. I worked some more on learning git. I committed all of my files to the github repo and then cloned it onto my laptop so I can work on it from either machine. Felt good to manage to understand git enough to do something productive with it, something that's done in the real world.
+
+**Worked on:** Git
+
+**Feeling:** Productive
