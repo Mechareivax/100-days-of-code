@@ -232,3 +232,11 @@ So I finished the exercise from yesterday with some help. Afterwards, I decided 
 **Worked on:** Learning git, setting up a test server
 
 **Feeling:** Fine
+
+### Day 27 December 3, 2018
+
+I finally started work on that lorem ipsum generator I've wanted to do for a while. I spent about an hour working on the design, so it isn't the most groundbreaking design in the world. I did look at some other generators to see how they format their stuff, and what features I wanted to include in my own generator. So I'm assuming the look of the site will change over time, but for now I'm content. In terms of actual lines of code written, there wasn't a lot. Between designing and figuring out how to include local fonts, I spent a lot of time so I got all the html elements I wanted onto the page. Next time I work on it will be styling.
+
+**Worked on:** WASDipsum
+
+**Feeling:** Good
