@@ -261,6 +261,6 @@ What an intermission! An absurd amount of time has passed since I last committed
 
 I actually did it. I finished styling a web page for a personal project. I'm absurdly proud of the work I've put into it and what I've learned from this. I also decided that I want to get absolutely insane at CSS. There's so much power in design and I'd love to be able to really capitalize on bringing my own visual ideas into projects. Wow. I finished a page for a personal project. Once it gets the functionality that it needs I'll be over the moon. I still need to do a few things like make the result page for where the lorem ipsum gets dumped. Or maybe I should even just put it on the same page. I haven't thought that far ahead.
 
-**Worked onL** WASDipsum
+**Worked on:** WASDipsum
 
 **Feeling:** almost "over the moon"
