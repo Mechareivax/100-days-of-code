@@ -248,3 +248,11 @@ Today was a light day. I worked some more on learning git. I committed all of my
 **Worked on:** Git
 
 **Feeling:** Productive
+
+#### Day 29 March 19, 2019
+
+What an intermission! An absurd amount of time has passed since I last committed myself to coding a bit a day, which means a whole lot of stuff happened in life. December was extremely hectic, being a server in a Christmas town. January was a bit of a downer in terms of income and emotion. Something happened in February which was probably among the worst thing to ever happen in my life. And now we're in the middle of March and I'm back at my web dev shenanigans. I'm approaching this without the mentality of starting over, hence picking this up where I left off. And for now, tutorials are going to take a back seat while I focus on creating actual websites. I'm fairly confident in my ability to at least do the html and css portion of web dev, so I'll slowly introduce dynamic elements while learning on my own. Today I got a good deal of the work done for WASDipsum and I'll be putting some of that up on Instagram and Twitter to maybe - MAYBE- start finding a community. I'm excited!
+
+**Worked on:** WASDipsum
+
+**Feeling:** Recommitted
