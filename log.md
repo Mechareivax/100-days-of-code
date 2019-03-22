@@ -264,3 +264,11 @@ I actually did it. I finished styling a web page for a personal project. I'm abs
 **Worked on:** WASDipsum
 
 **Feeling:** almost "over the moon"
+
+### Day 31 March 22, 2019
+
+Today, I followed a tutorial on adding the actual generating function to WASDipsum. I learned some things about exporting files in JS to be used in other files and how to require those files so that you can use functions from them. Also learned a bit about how an html file connects to a JS file using forms and names for those forms. Other than that, the tutorial I followed was fairly sparse on specifics, which was a bummer because I was hoping to learn more about routes and such than I did. And as always, debugging JS drained a little more of me than I was ready for. I'm actually going to post something on reddit and see if people have any insight on when that stops, or what I can do to make things easier for myself haha. In other news, I applied to an internship yesterday that I'm super hoping I at the very least hear back from. It was an interesting process trying to market my scarce skills for the first time, but I'm so so happy that I did. I can say that I've applied at least once before, and that's pretty exciting.
+
+**Worked on:** WASDipsum
+
+**Feeling:** like I need to actually learn routing
